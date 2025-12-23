@@ -40,7 +40,7 @@ function haalMotivatieOp(){
 
 function main(){
     alert("lay-out zuigt nog steeds");
-    alert("laatste toevoeging => Nieuwe liedjes (Finally)");
+    alert("laatste toevoeging => Made this new site (Finally)\n(Sorry about no longer songs tho, was too big)");
     alert("I LOVE YOU THE MOST");
     let knop=document.getElementById("start");
     knop.addEventListener("click", klik);
@@ -121,4 +121,5 @@ function nieuweWoordjes(){
     let quote=document.getElementById("quote");
     quote.innerText=lijst2[index2];
 }
+
 
