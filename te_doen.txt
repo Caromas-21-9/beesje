@@ -1,0 +1,3 @@
+implementatie van korting
+titel van website
+foto's herschaald op canvas + tekst erover IGUESS
